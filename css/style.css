@@ -140,7 +140,7 @@ body > .row{
 }
 
 .list-group-item{
-	border: none !important;
+	border-color: rgba(0,0,0,.15) !important;
 	border-radius: 0 !important;
 }
 
